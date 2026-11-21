@@ -6,9 +6,9 @@ Software development student at **UTN (Universidad Tecnológica Nacional)** buil
 
 ---
 
-## ✨ Featured Project
+##  Featured Project
 
-### 🎨 [Spritium](https://github.com/gastonmonsalvo/spritium) — Web Pixel Art & Sprite Animation Studio
+###  [Spritium](https://github.com/gastonmonsalvo/spritium) — Web Pixel Art & Sprite Animation Studio
 > **100% Client-Side Pixel Art Editor** built with Zero-Build Vanilla JS, HTML5 Canvas 2D, and IndexedDB.
 
 * **Live Demo (Beta):** [gastonmonsalvo.github.io/spritium](https://gastonmonsalvo.github.io/spritium/)
@@ -21,7 +21,7 @@ Software development student at **UTN (Universidad Tecnológica Nacional)** buil
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 #### Languages
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,7 +40,7 @@ Software development student at **UTN (Universidad Tecnológica Nacional)** buil
 
 ---
 
-## 🔗 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gastonmonsalvo/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:gastonmonsalvo@yahoo.com)
