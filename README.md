@@ -1,6 +1,6 @@
 # Hi, I'm Gastón! 👋
 
-Software development student at **UTN (Universidad Tecnológica Nacional)** building **client-side graphics tools, interactive web apps, and clean vanilla/React architectures**.
+Software development student at **UTN (Universidad Tecnológica Nacional)** building **client-side graphics tools, interactive web apps, and clean vanilla architectures**.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gastonmonsalvo&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
